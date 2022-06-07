@@ -12,7 +12,7 @@ Data extraction and a basic exploration using python notebook
 
 ## NARX model
 For modeling we use the **Non linear AutoRegressive with eXogenous** inputs neural network model 
-using matlab deep learning toolbox. For more info about NARX see matlab docs
+using matlab deep learning toolbox. For more info about NARX see [matlab docs](https://uk.mathworks.com/help/deeplearning/modeling-and-prediction-with-narx-and-time-delay-networks.html)
 
 ## Future work
 Explore other network architectures (LSTM, transformers etc)
